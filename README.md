@@ -1,4 +1,5 @@
 # Sonar Scanning Examples
+<img width="1908" height="626" alt="image" src="https://github.com/user-attachments/assets/cbef4ee1-54fc-410c-8b14-8f31fdb5f003" />
 
 This repository showcases basic examples of usage and code coverage for SonarScanners.
 * [SonarScanner for Gradle](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-gradle)
